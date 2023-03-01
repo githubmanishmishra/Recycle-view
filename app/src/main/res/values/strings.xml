@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclepractice</string>
+    <string name="empname">Empname</string>
+    <string name="empid">EmpId</string>
+</resources>
