@@ -51,6 +51,7 @@ holder.txt_name.setText(arrayEmp.get(position).empName);
         public viewHolder(@NonNull View itemView) {
             super(itemView);
             img = itemView.findViewById(R.id.img);
+            //for testing
             txt_id = itemView.findViewById(R.id.text_id);
             txt_name = itemView.findViewById((R.id.txt_name));
 
