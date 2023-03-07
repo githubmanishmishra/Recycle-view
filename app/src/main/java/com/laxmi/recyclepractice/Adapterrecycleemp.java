@@ -37,7 +37,7 @@ holder.txt_id.setText(arrayEmp.get(position).empId);
 holder.txt_name.setText(arrayEmp.get(position).empName);
 
     }
-
+//kumar
     @Override
     public int getItemCount() {
         return arrayEmp.size();
