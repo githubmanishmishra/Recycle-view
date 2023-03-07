@@ -47,7 +47,7 @@ holder.txt_name.setText(arrayEmp.get(position).empName);
     {
      ImageView img;
      TextView txt_id,txt_name;
-
+        //Manish Update
         public viewHolder(@NonNull View itemView) {
             super(itemView);
             img = itemView.findViewById(R.id.img);
